@@ -85,13 +85,15 @@ dataset/
 
 ---
 
-## 🚀 Training Model
+## Training Model
 
 Training dilakukan melalui notebook:
 
 ```
 notebooks/AoL_DL_1_Train.ipynb
 ```
+
+Tetapi notebook tersebut sudah diclear output nya dan merupakan ipynb dari Google Colab untuk link google colab bisa diakses dilink berikut: https://colab.research.google.com/drive/1LUQEJPEaSUOp1Zf3N9LSPmNm8p-Av0lJ?usp=sharing
 
 Konfigurasi dataset menggunakan:
 
