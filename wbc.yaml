@@ -1,0 +1,9 @@
+
+path: dataset
+
+train: yolo_dataset/images/train
+val: yolo_dataset/images/val
+test: yolo_dataset/images/test
+
+nc: 3
+names: ['WBC', 'RBC', 'Platelets']
